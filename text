@@ -1,0 +1,24 @@
+flip7_prob_app
+  index.html
+  vite.config.ts
+  package.json
+  tsconfig.json
+  tsconfig.node.json
+  src
+    main.tsx
+    app.tsx
+    state
+      types.ts
+      deck.ts
+      reducer.ts
+      history.ts
+      selectors.ts
+    ui
+      tabs.tsx
+      table_view.tsx
+      deck_view.tsx
+      history_view.tsx
+    styles.css
+  .github
+    workflows
+      deploy.yml
